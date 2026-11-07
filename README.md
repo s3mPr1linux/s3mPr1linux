@@ -61,8 +61,8 @@ Pós-graduação em Cibersegurança e Governança de Dados (PUC Minas) · Bachar
 ### 📈 Atividade
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=s3mPr1linux&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3mPr1linux&layout=compact&hide_border=true&theme=transparent" alt="Linguagens">
+  <img src="./metrics.general.svg" alt="GitHub stats">
+  <img src="./metrics.languages.svg" alt="Linguagens">
 </p>
 
 ---
