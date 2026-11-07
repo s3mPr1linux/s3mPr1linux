@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Analista Sênior de SegInfo</b> · Blue Team, Red Team e Purple Team · BR<br>
-  17+ anos em TI: de sysadmin Linux/Windows a SOC, engenharia de SIEM, resposta a incidentes e pentest.
+  17+ anos em TI: de sysadmin Linux/Windows a SOC, engenharia de segurança, resposta a incidentes e pentest.
 </p>
 
 <p align="center">
