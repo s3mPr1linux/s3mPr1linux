@@ -1,4 +1,4 @@
-<h1 align="center">Rodrigo Luz · s3mPr1linux</h1>
+<h1 align="center"> ./SL · s3mPr1linux</h1>
 
 <p align="center">
   <b>Analista Sênior de SegInfo</b> · Blue Team, Red Team e Purple Team · BR<br>
