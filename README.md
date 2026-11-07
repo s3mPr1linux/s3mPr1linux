@@ -1,7 +1,7 @@
 <h1 align="center">Rodrigo Luz · s3mPr1linux</h1>
 
 <p align="center">
-  <b>Analista Sênior de Cibersegurança</b> · Blue Team, Red Team e Purple Team · Rio de Janeiro, BR<br>
+  <b>Analista Sênior de SegInfo</b> · Blue Team, Red Team e Purple Team · BR<br>
   17+ anos em TI: de sysadmin Linux/Windows a SOC, engenharia de SIEM, resposta a incidentes e pentest.
 </p>
 
